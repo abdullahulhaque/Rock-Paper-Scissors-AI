@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-C-
+# Rock Paper Scissors AI Game
 
 The user enters their move (Rock, Paper, or Scissors) for each round, while the AI predicts the user's next move based on the frequency of their past moves. 
 The AI tracks the user's move frequencies and uses this data to make informed predictions about the user's likely next move.
