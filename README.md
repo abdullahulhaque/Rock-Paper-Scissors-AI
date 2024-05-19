@@ -1,5 +1,8 @@
 # Rock Paper Scissors AI Game
 
+In this Rock, Paper, Scissors project, an array tracked the user's move frequency to help the AI predict and counter the next move. 
+Integers managed the seed, rounds, moves, and win counts, while a string stored the user's name. The AI used this data to increase its chances of winning.
+
 The user enters their move (Rock, Paper, or Scissors) for each round, while the AI predicts the user's next move based on the frequency of their past moves. 
 The AI tracks the user's move frequencies and uses this data to make informed predictions about the user's likely next move.
 
